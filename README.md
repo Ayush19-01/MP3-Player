@@ -1,5 +1,5 @@
 # MP3-Player
-Currently under developement
+**Note - Currently under developement**
 ### Splash Screen
 ![alt text](https://github.com/Ayush19-01/MP3-Player/blob/master/Code/splah.png)
 ### Options
