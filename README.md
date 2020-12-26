@@ -1,5 +1,8 @@
 # MP3-Player
 **Note - Currently under developement**
+### Features under development :
+#### Seek bar
+#### Timer coordination of app with the song
 ### Splash Screen
 ![alt text](https://github.com/Ayush19-01/MP3-Player/blob/master/Code/splah.png)
 ### Options
